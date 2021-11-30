@@ -1,2 +1,3 @@
 # git-github-2021
-Demo repository
+
+IEEE Git & Github 2021 exercise repository
