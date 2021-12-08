@@ -6,6 +6,16 @@ IEEE Git & Github 2021 exercise repository
 
 Φτιάξε ένα καινούριο αρχείο στον φάκελο `_posts` με τίτλο σε format `YEAR-MONTH_DAY_title.md` (πχ `2021-10-3-hello-world.md`) και κάντε το pull request στο κεντρικό αποθετήριο
 
+```
+---
+layout: post
+title:  "ο τίτλος σας"
+date:   2021-11-30 13:35:39 +0200
+---
+
+Δικό σας κείμενο
+```
+
 ## Οδηγίες για εγκατάσταση git
 
 Εγκατάσταση git σε Ubuntu Linux
